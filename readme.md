@@ -188,7 +188,3 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
-## Author
-
-**Deepak Sai Pendyala**
-LinkedIn: [linkedin.com/in/deepaksaip](https://www.linkedin.com/in/deepaksaip)
