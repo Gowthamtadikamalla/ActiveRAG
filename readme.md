@@ -180,11 +180,5 @@ Each query is processed by a coordinated pipeline of specialized agents, produci
 Contributions are welcome.
 If you wish to propose significant changes, please open an issue first for discussion.
 
----
 
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
-
----
 
